@@ -14,4 +14,6 @@ How to Use:
 
 	1.	Enter the number N, any number greater than 0.
 	2.	Run the program to see the count of set bits, the position of the first set bit, and the position of the last set bit.
-
+Example:
+> Input: 10         // Binary Rep = 1010
+> Output: 2#1#3   
